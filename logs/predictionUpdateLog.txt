@@ -1,0 +1,274 @@
+Firebase Prediction Update Log for 2024-05-02
+No Update for NAUKRI_NS!
+Updating Prediction for : NESTLEIND_NS
+Tickers Fetched from Firestore!
+Updating Prediction for : ABB_NS
+No Update for ABB_NS!
+Updating Prediction for : ADANIENSOL_NS
+No Update for ADANIENSOL_NS!
+Updating Prediction for : ADANIENT_NS
+No Update for NESTLEIND_NS!
+Updating Prediction for : NTPC_NS
+No Update for ADANIENT_NS!
+Updating Prediction for : ADANIGREEN_NS
+No Update for ADANIGREEN_NS!
+Updating Prediction for : ADANIPORTS_NS
+No Update for NTPC_NS!
+No Update for ADANIPORTS_NS!
+Updating Prediction for : ADANIPOWER_NS
+Updating Prediction for : ONGC_NS
+No Update for ADANIPOWER_NS!
+Updating Prediction for : AMBUJACEM_NS
+No Update for AMBUJACEM_NS!
+Updating Prediction for : APOLLOHOSP_NS
+No Update for ONGC_NS!
+Updating Prediction for : PFC_NS
+No Update for APOLLOHOSP_NS!
+Updating Prediction for : ASIANPAINT_NS
+No Update for PFC_NS!
+Updating Prediction for : PIDILITIND_NS
+No Update for ASIANPAINT_NS!
+Updating Prediction for : ATGL_NS
+No Update for ATGL_NS!
+Updating Prediction for : AXISBANK_NS
+No Update for AXISBANK_NS!
+Updating Prediction for : BAJAJ-AUTO_NS
+No Update for PIDILITIND_NS!
+Updating Prediction for : PNB_NS
+No Update for BAJAJ-AUTO_NS!
+Updating Prediction for : BAJAJAUTO_NS
+No Update for BAJAJAUTO_NS!
+Updating Prediction for : BAJAJFINSV_NS
+No Update for PNB_NS!
+Updating Prediction for : POWERGRID_NS
+No Update for BAJAJFINSV_NS!
+Updating Prediction for : BAJAJHLDNG_NS
+No Update for POWERGRID_NS!
+Updating Prediction for : RECLTD_NS
+No Update for BAJAJHLDNG_NS!
+Updating Prediction for : BAJFINANCE_NS
+No Update for RECLTD_NS!
+Updating Prediction for : RELIANCE_NS
+No Update for BAJFINANCE_NS!
+Updating Prediction for : BANKBARODA_NS
+No Update for RELIANCE_NS!
+Updating Prediction for : SBICARD_NS
+No Update for SBICARD_NS!
+Updating Prediction for : SBILIFE_NS
+No Update for BANKBARODA_NS!
+Updating Prediction for : BEL_NS
+No Update for SBILIFE_NS!
+Updating Prediction for : SBIN_NS
+No Update for BEL_NS!
+Updating Prediction for : BERGEPAINT_NS
+No Update for BERGEPAINT_NS!
+Updating Prediction for : BHARTIARTL_NS
+No Update for BHARTIARTL_NS!
+Updating Prediction for : BOSCHLTD_NS
+No Update for SBIN_NS!
+Updating Prediction for : SHREECEM_NS
+No Update for BOSCHLTD_NS!
+Updating Prediction for : BPCL_NS
+No Update for BPCL_NS!
+Updating Prediction for : BRITANNIA_NS
+No Update for SHREECEM_NS!
+Updating Prediction for : SHRIRAMFIN_NS
+No Update for BRITANNIA_NS!
+Updating Prediction for : CANBK_NS
+No Update for CANBK_NS!
+Updating Prediction for : CHOLAFIN_NS
+No Update for SHRIRAMFIN_NS!
+No Update for CHOLAFIN_NS!
+Updating Prediction for : CIPLA_NS
+Updating Prediction for : SIEMENS_NS
+No Update for CIPLA_NS!
+Updating Prediction for : COALINDIA_NS
+No Update for SIEMENS_NS!
+Updating Prediction for : SRF_NS
+No Update for COALINDIA_NS!
+Updating Prediction for : COLPAL_NS
+No Update for SRF_NS!
+No Update for COLPAL_NS!
+Updating Prediction for : SUNPHARMA_NS
+Updating Prediction for : DABUR_NS
+No Update for DABUR_NS!
+Updating Prediction for : DIVISLAB_NS
+No Update for SUNPHARMA_NS!
+Updating Prediction for : TATACONSUM_NS
+No Update for DIVISLAB_NS!
+Updating Prediction for : DLF_NS
+No Update for DLF_NS!
+Updating Prediction for : DMART_NS
+No Update for TATACONSUM_NS!
+Updating Prediction for : TATAMOTORS_NS
+Updating Prediction for : DRREDDY_NS
+No Update for DRREDDY_NS!
+Updating Prediction for : EICHERMOT_NS
+No Update for TATAMOTORS_NS!
+Updating Prediction for : TATAPOWER_NS
+No Update for EICHERMOT_NS!
+Updating Prediction for : GAIL_NS
+No Update for TATAPOWER_NS!
+Updating Prediction for : TATASTEEL_NS
+No Update for GAIL_NS!
+Updating Prediction for : GODREJCP_NS
+No Update for TATASTEEL_NS!
+Updating Prediction for : TCS_NS
+No Update for GODREJCP_NS!
+Updating Prediction for : GRASIM_NS
+No Update for TCS_NS!
+Updating Prediction for : TECHM_NS
+No Update for GRASIM_NS!
+Updating Prediction for : HAL_NS
+No Update for HAL_NS!
+Updating Prediction for : HAVELLS_NS
+No Update for TECHM_NS!
+Updating Prediction for : TITAN_NS
+No Update for HAVELLS_NS!
+Updating Prediction for : HCLTECH_NS
+No Update for TITAN_NS!
+No Update for HCLTECH_NS!
+Updating Prediction for : HDFCBANK_NS
+Updating Prediction for : TORNTPHARM_NS
+No Update for HDFCBANK_NS!
+Updating Prediction for : HDFCLIFE_NS
+No Update for HDFCLIFE_NS!
+Updating Prediction for : HEROMOTOCO_NS
+No Update for TORNTPHARM_NS!
+Updating Prediction for : TRENT_NS
+No Update for HEROMOTOCO_NS!
+Updating Prediction for : HINDALCO_NS
+No Update for TRENT_NS!
+Updating Prediction for : TVSMOTOR_NS
+No Update for HINDALCO_NS!
+Updating Prediction for : HINDUNILVR_NS
+No Update for TVSMOTOR_NS!
+Updating Prediction for : ULTRACEMCO_NS
+No Update for HINDUNILVR_NS!
+Updating Prediction for : ICICIBANK_NS
+No Update for ULTRACEMCO_NS!
+Updating Prediction for : UPL_NS
+No Update for ICICIBANK_NS!
+Updating Prediction for : ICICIGI_NS
+No Update for UPL_NS!
+Updating Prediction for : VBL_NS
+No Update for ICICIGI_NS!
+Updating Prediction for : ICICIPRULI_NS
+No Update for VBL_NS!
+Updating Prediction for : VEDL_NS
+No Update for ICICIPRULI_NS!
+Updating Prediction for : INDIGO_NS
+No Update for INDIGO_NS!
+Updating Prediction for : INDUSINDBK_NS
+No Update for VEDL_NS!
+Updating Prediction for : WIPRO_NS
+No Update for WIPRO_NS!
+Updating Prediction for : ZOMATO_NS
+No Update for INDUSINDBK_NS!
+Updating Prediction for : INFY_NS
+No Update for ZOMATO_NS!
+Updating Prediction for : ZYDUSLIFE_NS
+No Update for INFY_NS!
+Updating Prediction for : IOC_NS
+No Update for ZYDUSLIFE_NS!
+No Update for IOC_NS!
+Updating Prediction for : IRCTC_NS
+No Update for IRCTC_NS!
+Updating Prediction for : IRFC_NS
+No Update for IRFC_NS!
+Updating Prediction for : ITC_NS
+No Update for ITC_NS!
+Updating Prediction for : JINDALSTEL_NS
+No Update for JINDALSTEL_NS!
+Updating Prediction for : JIOFIN_NS
+No Update for JIOFIN_NS!
+Updating Prediction for : JSWSTEEL_NS
+No Update for JSWSTEEL_NS!
+Updating Prediction for : KOTAKBANK_NS
+No Update for KOTAKBANK_NS!
+Updating Prediction for : LICI_NS
+No Update for LICI_NS!
+Updating Prediction for : LTIM_NS
+No Update for LTIM_NS!
+Updating Prediction for : LT_NS
+No Update for LT_NS!
+Updating Prediction for : M&M_NS
+No Update for M&M_NS!
+Updating Prediction for : MARICO_NS
+No Update for MARICO_NS!
+Updating Prediction for : MARUTI_NS
+No Update for MARUTI_NS!
+Updating Prediction for : MCDOWELL-N_NS
+No Update for MCDOWELL-N_NS!
+Updating Prediction for : MOTHERSON_NS
+No Update for MOTHERSON_NS!
+Updating Prediction for : NAUKRI_NS
+No Update for NAUKRI_NS!
+Updating Prediction for : NESTLEIND_NS
+No Update for NESTLEIND_NS!
+Updating Prediction for : NTPC_NS
+No Update for NTPC_NS!
+Updating Prediction for : ONGC_NS
+No Update for ONGC_NS!
+Updating Prediction for : PFC_NS
+No Update for PFC_NS!
+Updating Prediction for : PIDILITIND_NS
+No Update for PIDILITIND_NS!
+Updating Prediction for : PNB_NS
+No Update for PNB_NS!
+Updating Prediction for : POWERGRID_NS
+No Update for POWERGRID_NS!
+Updating Prediction for : RECLTD_NS
+No Update for RECLTD_NS!
+Updating Prediction for : RELIANCE_NS
+No Update for RELIANCE_NS!
+Updating Prediction for : SBICARD_NS
+No Update for SBICARD_NS!
+Updating Prediction for : SBILIFE_NS
+No Update for SBILIFE_NS!
+Updating Prediction for : SBIN_NS
+No Update for SBIN_NS!
+Updating Prediction for : SHREECEM_NS
+No Update for SHREECEM_NS!
+Updating Prediction for : SHRIRAMFIN_NS
+No Update for SHRIRAMFIN_NS!
+Updating Prediction for : SIEMENS_NS
+No Update for SIEMENS_NS!
+Updating Prediction for : SRF_NS
+No Update for SRF_NS!
+Updating Prediction for : SUNPHARMA_NS
+No Update for SUNPHARMA_NS!
+Updating Prediction for : TATACONSUM_NS
+No Update for TATACONSUM_NS!
+Updating Prediction for : TATAMOTORS_NS
+No Update for TATAMOTORS_NS!
+Updating Prediction for : TATAPOWER_NS
+No Update for TATAPOWER_NS!
+Updating Prediction for : TATASTEEL_NS
+No Update for TATASTEEL_NS!
+Updating Prediction for : TCS_NS
+No Update for TCS_NS!
+Updating Prediction for : TECHM_NS
+No Update for TECHM_NS!
+Updating Prediction for : TITAN_NS
+No Update for TITAN_NS!
+Updating Prediction for : TORNTPHARM_NS
+No Update for TORNTPHARM_NS!
+Updating Prediction for : TRENT_NS
+No Update for TRENT_NS!
+Updating Prediction for : TVSMOTOR_NS
+No Update for TVSMOTOR_NS!
+Updating Prediction for : ULTRACEMCO_NS
+No Update for ULTRACEMCO_NS!
+Updating Prediction for : UPL_NS
+No Update for UPL_NS!
+Updating Prediction for : VBL_NS
+No Update for VBL_NS!
+Updating Prediction for : VEDL_NS
+No Update for VEDL_NS!
+Updating Prediction for : WIPRO_NS
+No Update for WIPRO_NS!
+Updating Prediction for : ZOMATO_NS
+No Update for ZOMATO_NS!
+Updating Prediction for : ZYDUSLIFE_NS
+No Update for ZYDUSLIFE_NS!
