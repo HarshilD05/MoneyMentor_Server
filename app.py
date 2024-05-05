@@ -121,16 +121,16 @@ def fetch_top_stocks() :
 if __name__ == "__main__":
     
     # # Starting the Stock Data Updater Thread
-    # stockDataUpdaterThread = threading.Thread(target=stock_data_updater_thread)
-    # stockDataUpdaterThread.start()
+    stockDataUpdaterThread = threading.Thread(target=stock_data_updater_thread)
+    stockDataUpdaterThread.start()
     
     # # Starting the Stock Predcition Updater Thread
-    # time.sleep(10)
-    # stockPredictUpdaterThread = threading.Thread(target=stock_predict_updater_thread)
-    # stockPredictUpdaterThread.start()
+    time.sleep(10)
+    stockPredictUpdaterThread = threading.Thread(target=stock_predict_updater_thread)
+    stockPredictUpdaterThread.start()
     
     # # Starting the Trending Stocks Updater Thread
-    # time.sleep(10)
+    time.sleep(10)
     trendingStocksUpdaterThread = threading.Thread(target=update_trending_stocks_thread)
     trendingStocksUpdaterThread.start()
     
