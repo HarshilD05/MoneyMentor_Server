@@ -32,7 +32,7 @@ def update_trending_stocks_thread() :
             "trendingStocks" : trendingStocks,
         }
         try : 
-            with open(APP_REQ_DATA_COLLECTION_NAME+"/trendingStocks.json", "w") as f:
+            with open(APP_REQ_DATA_DIR+"/trendingStocks.json", "w") as f:
                 json.dump(trendingStocksDict, f)
                 f.close()
                 
@@ -52,7 +52,7 @@ def update_top_stocks_thread() :
             "topStocks" : topStocks,
         }
         try : 
-            with open(APP_REQ_DATA_COLLECTION_NAME+"/topStocks.json", "w") as f:
+            with open(APP_REQ_DATA_DIR+"/topStocks.json", "w") as f:
                 json.dump(topStocksDict, f)
                 f.close()
             
@@ -90,6 +90,14 @@ def get_future_top_stocks() :
     topStocks = getFutureTopStocks(STOCK_DATA_COLLECTION_NAME, months, n)
     return jsonify(topStocks)
 
+@app.route("/api/recommendStocks", methods = ["GET"])
+def recommend_stocks() : 
+    amt = int(request.args.get("amt", default=10000) )
+    months = int(request.args.get("months", default=12) )
+    n = int(request.args.get("nStocks", default=10) )
+    recommendedStocks = recommendStocks(amt,months,n,STOCK_DATA_COLLECTION_NAME)
+    return jsonify(recommendedStocks)
+
 @app.route("/api/getStockData", methods = ["GET"])
 def get_stock_data() : 
     ticker = request.args.get("ticker")
@@ -119,26 +127,25 @@ def fetch_top_stocks() :
     return jsonify(topStocks)
     
 if __name__ == "__main__":
+    # Starting the Stock Data Updater Thread
+    # stockDataUpdaterThread = threading.Thread(target=stock_data_updater_thread)
+    # stockDataUpdaterThread.start()
     
-    # # Starting the Stock Data Updater Thread
-    stockDataUpdaterThread = threading.Thread(target=stock_data_updater_thread)
-    stockDataUpdaterThread.start()
-    
-    # # Starting the Stock Predcition Updater Thread
-    time.sleep(10)
-    stockPredictUpdaterThread = threading.Thread(target=stock_predict_updater_thread)
-    stockPredictUpdaterThread.start()
+    # Starting the Stock Predcition Updater Thread
+    # time.sleep(10)
+    # stockPredictUpdaterThread = threading.Thread(target=stock_predict_updater_thread)
+    # stockPredictUpdaterThread.start()
     
     # # Starting the Trending Stocks Updater Thread
-    time.sleep(10)
-    trendingStocksUpdaterThread = threading.Thread(target=update_trending_stocks_thread)
-    trendingStocksUpdaterThread.start()
+    # time.sleep(10)
+    # trendingStocksUpdaterThread = threading.Thread(target=update_trending_stocks_thread)
+    # trendingStocksUpdaterThread.start()
     
     # # Starting the Top Stocks Updater Thread
-    time.sleep(10)
-    topStocksUpdaterThread = threading.Thread(target=update_top_stocks_thread)
-    topStocksUpdaterThread.start()
+    # time.sleep(10)
+    # topStocksUpdaterThread = threading.Thread(target=update_top_stocks_thread)
+    # topStocksUpdaterThread.start()
     
-    # Running the Flask App
+    # # Running the Flask App
     app.run(host="0.0.0.0", port = 5000, debug=True)
     
